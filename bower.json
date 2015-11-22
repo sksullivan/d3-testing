@@ -1,0 +1,8 @@
+{
+  "name": "Scheedule 2",
+  "version": "0.1",
+  "dependencies": {
+    "angular": "~1.4",
+    "d3": "~3.5.9"
+  }
+}
